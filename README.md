@@ -21,7 +21,9 @@ code of my blog!!
 					<ul>
 							<li >
 										Resolution 1366 x 768
-                
-                #all this is then put into elementor of wordpress.
+               
+	       
+	       
+	       #all this is then put into elementor of wordpress.
                 
                 
